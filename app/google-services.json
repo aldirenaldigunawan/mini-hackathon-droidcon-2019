@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "180608796155",
+    "firebase_url": "https://droidcon-2019-b4582.firebaseio.com",
+    "project_id": "droidcon-2019-b4582",
+    "storage_bucket": "droidcon-2019-b4582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180608796155:android:0939e49d68c53731",
+        "android_client_info": {
+          "package_name": "aaaaa.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180608796155-ok0cg29uss58j2jq4iildcakj19fofho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVhl-HZiCDcwAOHcocrhfZzNv0lw5k6bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180608796155-ok0cg29uss58j2jq4iildcakj19fofho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180608796155:android:c1f0f09aa42eba16",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180608796155-ok0cg29uss58j2jq4iildcakj19fofho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVhl-HZiCDcwAOHcocrhfZzNv0lw5k6bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180608796155-ok0cg29uss58j2jq4iildcakj19fofho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180608796155:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180608796155-ok0cg29uss58j2jq4iildcakj19fofho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVhl-HZiCDcwAOHcocrhfZzNv0lw5k6bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180608796155-ok0cg29uss58j2jq4iildcakj19fofho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
