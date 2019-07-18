@@ -7,9 +7,9 @@
 
 
 #### Walkthrough
-⋅⋅* Run The Application
-⋅⋅* Select Kotlin -> Open
-⋅⋅* Choose LivePreviewActivity
-⋅⋅* Switch feature selection from Face Contour to Face Detection
-⋅⋅* Once Face Detection selected, the camera is ready to be playing around
+1. Run The Application
+2. Select Kotlin -> Open
+3. Choose LivePreviewActivity
+4. Switch feature selection from Face Contour to Face Detection
+5. Once Face Detection selected, the camera is ready to be playing around
 
